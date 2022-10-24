@@ -1,0 +1,37 @@
+.item {
+    display: inline-block;
+    border: solid 0px black;
+    padding: 10px;
+    margin: 0px;
+    font-size: 10pt;
+    font-weight: 400;
+
+}
+
+.avatar {
+    display: block;
+    padding: 10px 10px;
+}
+
+.statusGreen {
+    display: inline-block;
+    border-radius: 6px;
+    padding: 6px 6px;
+    background-color: #51f546;
+}
+
+.statusRed {
+    display: inline-block;
+    border-radius: 6px;
+    padding: 6px 6px;
+    background-color: #ff2c46;
+}
+
+.name {
+    display: block;
+    margin: 0;
+    padding: 0;
+    color: white;
+    font-size: 14pt;
+    font-weight: 500;
+}
